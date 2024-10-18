@@ -17,3 +17,6 @@ doc/api/
 
 # Coverage
 coverage/
+
+# FVM Version Cache
+.fvm/
