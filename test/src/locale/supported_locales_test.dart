@@ -41,6 +41,8 @@ List<String> supportedLocales() {
     'zh_cn',
     'zh_hk',
     'zh_tw',
+    'da',
+    'da_dk',
     'de',
     'de_de',
     'de_at',
