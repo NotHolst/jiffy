@@ -1,6 +1,6 @@
 import 'package:jiffy/src/enums/start_of_week.dart';
 import 'package:jiffy/src/locale/locale.dart';
-import './relative_date_time.dart';
+import '../relative_date_time.dart';
 
 class DaLocale extends Locale {
   @override

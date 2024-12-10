@@ -1,6 +1,7 @@
 import 'locale.dart';
 import 'locales/ar_locale.dart';
 import 'locales/cs_locale.dart';
+import 'locales/da_locale.dart';
 import 'locales/de_locale.dart';
 import 'locales/en_locale.dart';
 import 'locales/es_locale.dart';
@@ -46,6 +47,8 @@ Map<String, Locale> _supportedLocales = {
   'zh_cn': ZhCnLocale(),
   'zh_hk': ZhHkLocale(),
   'zh_tw': ZhTwLocale(),
+  'da': DaLocale(),
+  'da_dk': DaLocale(),
   'de': DeLocale(),
   'de_de': DeDeLocale(),
   'de_at': DeAtLocale(),
